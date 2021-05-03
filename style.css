@@ -133,9 +133,8 @@ body {
 }
  
 .nav {
-
 position: fixed;
-
+justify-content: space-between;
 width: 99%;
 height: 50px;
 margin:0;
@@ -148,3 +147,5 @@ padding-right:10px;
 body {
   background-color: #99bbb991;
 }
+.poi {
+width: 100%;
